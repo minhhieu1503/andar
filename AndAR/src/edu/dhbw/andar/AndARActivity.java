@@ -101,6 +101,7 @@ public abstract class AndARActivity extends Activity implements Callback, Uncaug
 			throw new AndARRuntimeException(e.getMessage());
 		}
         // Test commit 4 master
+        // Test commit 6 master
 		FrameLayout frame = new FrameLayout(this);
 		previewSurface = new Preview(this);
 				
