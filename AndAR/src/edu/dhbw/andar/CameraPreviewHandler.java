@@ -76,7 +76,7 @@ public class CameraPreviewHandler implements PreviewCallback {
 	private CameraStatus camStatus;
 	private boolean threadsRunning = true;
 	
-	
+	// Test commit 2 newTest
 	
 	public CameraPreviewHandler(GLSurfaceView glSurfaceView,
 			PreviewFrameSink sink, Resources res, ARToolkit markerInfo, CameraStatus camStatus) {
