@@ -42,6 +42,7 @@ import android.util.Log;
  * @author Tobi
  * 
  */
+// Test commit 5 master
 public class CameraParameters {
 	private static Method getSupportedPreviewFormats = null;
 	private static Method getSupportedPreviewSizes = null;
