@@ -74,6 +74,7 @@ public abstract class AndARActivity extends Activity implements Callback, Uncaug
 	
 	public AndARActivity() {
 		startPreviewRightAway = true;
+		// test commit 1
 	}
 	
 	public AndARActivity(boolean startPreviewRightAway) {
