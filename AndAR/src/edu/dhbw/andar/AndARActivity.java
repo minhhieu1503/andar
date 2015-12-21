@@ -102,6 +102,7 @@ public abstract class AndARActivity extends Activity implements Callback, Uncaug
 		}
         // Test commit 4 master
         // Test commit 6 master
+        // Test commit 7
 		FrameLayout frame = new FrameLayout(this);
 		previewSurface = new Preview(this);
 				
